@@ -21,7 +21,7 @@ adjust =: dyad define
 	end.
 )
 
-mult =: dyad define
+caramul =: dyad define
 	n =. (num_n x) >. (num_n y)
 
 	if. n = 1
