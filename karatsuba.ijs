@@ -1,3 +1,4 @@
+NB. test token authentication
 l_n =: >. @: (% & 2) @: #
 left =: monad define
 	#.(l_n y) {. y
